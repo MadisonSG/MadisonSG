@@ -1,16 +1,18 @@
-## Hi there 👋
+MadisonSGのプロフィールページです。  
+Here is MadisonSG's profile page.  
 
-<!--
-**MadisonSG/MadisonSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 概要(overview)
+このアカウントは趣味プログラミング用のGitHubアカウントです。
+This account is a GitHub account for hobby programming.
 
-Here are some ideas to get you started:
+## ホームページ(homepage)
+[https://minfaox3.net/](https://madisonsg.net/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Booth
+[https://concepts.minfaox3.net/](https://madisonsg.booth.pm/)
+
+### メール(e-mail)
+madisonsg4g[a]gmail.com
+
+## お気に入りな言語(particular favorites lang)
+C#, HLSL, C++, HTML/JS/CSS

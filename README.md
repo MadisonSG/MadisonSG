@@ -1,8 +1,5 @@
-MadisonSGのプロフィールページです。  
-Here is MadisonSG's profile page.  
-
 ## 概要(overview)
-このアカウントは趣味プログラミング用のGitHubアカウントです。
+このアカウントは趣味プログラミング用のGitHubアカウントです。  
 This account is a GitHub account for hobby programming.
 
 ## ホームページ(homepage)
